@@ -1,0 +1,5 @@
+EshopModularMonoliths GitHub Repository Link:
+https://github.com/mehmetozkaya/EshopModularMonoliths
+
+EshopModularMonoliths-Sections GitHub Repository Link:
+https://github.com/mehmetozkaya/EshopModularMonoliths-Sections
