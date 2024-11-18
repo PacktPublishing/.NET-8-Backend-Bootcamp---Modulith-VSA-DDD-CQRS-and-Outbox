@@ -1,0 +1,1 @@
+# .NET-8-Backend-Bootcamp---Modulith-VSA-DDD-CQRS-and-Outbox
